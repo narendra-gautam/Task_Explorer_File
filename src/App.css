@@ -1,0 +1,21 @@
+* {
+  font-family: "Fira Code", SFMono-Regular, Consolas, "Liberation Mono", Menlo,
+    Courier, monospace, Menlo, Monaco, "Courier New", monospace;
+  text-align: center;
+}
+
+.file-structure-container * {
+  text-align: left;
+}
+
+.level {
+  padding: 10px 0px 10px 10px;
+}
+
+.node-container {
+  margin-bottom: 10px;
+}
+.node-name {
+  display: inline-block;
+  margin-right: 10px;
+}
